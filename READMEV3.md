@@ -1,5 +1,11 @@
 # KillrVideo Java - Version 3.0.1 #
 
+## Building the project
+
+requires java 11
+
+## Running the project
+
 ```bash
 cd scripts
 export KILLRVIDEO_BACKEND=`ipconfig getifaddr en0`
